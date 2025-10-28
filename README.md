@@ -2,7 +2,7 @@
 ## KNYDEX
 ******
 #### Logo:
-#### ![Logo](KNYDEX_Favicon.jpeg)
+#### ![Logo](all_images\KNYDEX_Favicon.jpeg)
 ### Description
 ### Our website aims to serve as a guide for fellow demon slayers on how to identify and master their breathing techniques, know their friends and hashiras, and learn about potential encounters with deadly demons, especially with the king of demons, Muzan Kibutsuji. 
 
@@ -23,12 +23,12 @@
 ******
 #### Wireframes:
 #### Home Page:
-#### ![P1](all images\2.png)
+#### ![P1](all_images\1.png)
 #### Hashira and Protagonists Info:
-#### ![P2](all images\3.png)
+#### ![P2](all_images\2.png)
 #### Quiz:
-#### ![P3](all images\4.png)
+#### ![P3](all_images\3.png)
 #### Breathing Styles Info:
-#### ![P4](all images\5.png)
+#### ![P4](all_images\4.png)
 #### Upper Moons and Muzan Info:
-#### ![P5](all images\6.png)
+#### ![P5](all_images\5.png)
