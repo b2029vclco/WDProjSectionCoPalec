@@ -2,7 +2,7 @@
 ## KNYDEX
 ******
 #### Logo:
-#### ![Logo](all_images\KNYDEX_Favicon.jpeg)
+#### ![Logo](https://github.com/b2029vclco/WDProjSectionCoPalec/blob/main/all_images/KNYDEX_Favicon.jpeg?raw=true)
 ### Description
 ### Our website aims to serve as a guide for fellow demon slayers on how to identify and master their breathing techniques, know their friends and hashiras, and learn about potential encounters with deadly demons, especially with the king of demons, Muzan Kibutsuji. 
 
@@ -23,12 +23,12 @@
 ******
 #### Wireframes:
 #### Home Page:
-#### ![P1](all_images\1.png)
+#### ![P1](https://github.com/b2029vclco/WDProjSectionCoPalec/blob/main/all_images/1.png?raw=true)
 #### Hashira and Protagonists Info:
-#### ![P2](all_images\2.png)
+#### ![P2](https://github.com/b2029vclco/WDProjSectionCoPalec/blob/main/all_images/2.png?raw=true)
 #### Quiz:
-#### ![P3](all_images\3.png)
+#### ![P3](https://github.com/b2029vclco/WDProjSectionCoPalec/blob/main/all_images/3.png?raw=true)
 #### Breathing Styles Info:
-#### ![P4](all_images\4.png)
+#### ![P4](https://github.com/b2029vclco/WDProjSectionCoPalec/blob/main/all_images/4.png?raw=true)
 #### Upper Moons and Muzan Info:
-#### ![P5](all_images\5.png)
+#### ![P5](https://github.com/b2029vclco/WDProjSectionCoPalec/blob/main/all_images/5.png?raw=true)
