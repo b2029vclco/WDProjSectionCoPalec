@@ -46,6 +46,7 @@ header h2 {
 }
 
 .header-box {
+    text-align: center;
     border: 1rem;
     max-width: 26rem;         
     margin: 4rem auto;        
